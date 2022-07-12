@@ -34,3 +34,4 @@ Lista de atajos:
 'Ctrl' + 'click izquierdo': aplicar detección de área
 'Ctrl' + 'click izquierdo' + arrastrar sin soltar: aplicar zoom en la imagen
 'escape': cerrar ventana de graficación
+hola
