@@ -1,5 +1,5 @@
-# SoftwareProcesamientoImagenes
-Sofware de procesamiento digital de imágenes
+## SoftwareProcesamientoImagenes
+# Sofware de procesamiento digital de imágenes
 
 Este proyecto lo desarrolle dentro de la cátedra de programación avanzada de la Licenciatura en Bioinformática.
 
